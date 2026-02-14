@@ -1,0 +1,2 @@
+Python 3.13 or 3.14 or 3.12 
+uv 0.9.26 or newer
